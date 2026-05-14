@@ -1,2 +1,2 @@
 # PromptDet
-Official implementation of PromptDet accepted by AAAI 2025. We are organizing the code and will release it soon.
+[AAAI 2025] This is the official implementation of <PromptDet: A lightweight 3d object detection framework with lidar prompts>. We are organizing the code and will release it soon.
